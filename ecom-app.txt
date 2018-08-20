@@ -1,0 +1,23 @@
+
+The main objective of the contest is to create an application which helps us to update articles for e-commerce.
+
+Some key points in the logical flow is mentioned in this file.
+
+1. Firstly we need to see if we want to use javascript or PHP for the UI.
+
+2. Secondly we need to initialise all the variables and have a clear picture in mind of which data type to be assigned to which variable.
+   For example : Purchase date should be of data type : DATE  in PhP.
+
+3.We need to accept data from the user with the help of a form which enables us to have all the information to be displayed.
+
+4.We need to have a database to store all the information enetered.
+
+5.Finally we need to show the entered data back to the user for confirmation.
+
+Till here we have qualified the data entry process.
+
+For filtering : 
+
+we can filter by price or by category  and the respective data is to be showed and this can be achieved by sql querys easily.
+
+Thank you.
